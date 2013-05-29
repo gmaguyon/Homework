@@ -1,0 +1,76 @@
+body {
+	font-family: Helvetica;
+	background-image: url(http://littleangelstudios.com/wp-content/uploads/2012/12/ivory-off-white-paper-texture.jpg);
+}
+
+h1 {
+	font-size: 2.5em;
+	text-align: center;
+	font-family: 'Abril Fatface';
+	
+}
+
+
+
+li {
+	font-family: 'Stint Ultra Condensed';
+}
+
+.container {
+	width: 1000px;
+
+}
+
+.paragraph {
+	font-family: 'Stint Ultra Condensed';
+	font-size: 1.2em;
+	font-style: italic;
+
+}
+
+#top {
+	padding: 10px;
+	margin: 10px 10px 20px 20px;
+	text-align: left;
+	float:right;
+	
+
+
+}
+
+#contact {
+	padding: 10px;
+	margin: 10px 10px 20px 20px;
+	font-size: 1.2em;
+	
+}
+
+#about {
+    padding: 10px;
+	margin: 10px 10px 20px 20px;
+
+}
+
+#experience {
+	padding: 10px;
+	margin: 10px 10px 20px 20px;
+
+}
+
+#education {
+	padding: 10px;
+	margin: 10px 10px 20px 20px;
+	text-align: center;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; 
+    display: table; 
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+
